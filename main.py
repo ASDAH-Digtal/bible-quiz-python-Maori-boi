@@ -1,6 +1,6 @@
 # Amount of points earned from correct answers
 score = 0
-#
+
 for i in range(1):
   # Used as a barrier to seperate each sentence
   print("====================================================================")
@@ -46,6 +46,7 @@ while True:
     print("You did not choose one of the options")
 print("====================================================================")
 
+# While true statement
 while True:
 
   # input for question two
@@ -70,7 +71,7 @@ while True:
     print("You now have: {} points".format(score))
     break
 
-
+  # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
 print("====================================================================")
@@ -99,7 +100,7 @@ while True:
     print("You now have: {} points".format(score))
     break
 
-
+  # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
 print("====================================================================")
@@ -128,7 +129,7 @@ while True:
     print("You now have: {} points".format(score))
     break
 
-
+  # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
 print("====================================================================")
@@ -157,7 +158,7 @@ while True:
     print("You now have: {} points".format(score))
     break
 
-
+  # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
 print("====================================================================")
@@ -186,7 +187,7 @@ while True:
     print("You now have: {} points".format(score))
     break
 
-
+  # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
 print("====================================================================")
@@ -215,7 +216,7 @@ while True:
     print("You now have: {} points".format(score))
     break
  
- 
+  # else statement being used to tell user that the input answer must be one of the given answers above. 
   else:
     print("You did not choose one of the options")
 print("====================================================================")
@@ -245,7 +246,7 @@ while True:
     print("You now have: {} points".format(score))
     break
  
- 
+  # else statement being used to tell user that the input answer must be one of the given answers above. 
   else:
     print("You did not choose one of the options")
 print("====================================================================")
@@ -275,7 +276,7 @@ while True:
     print("You now have: {} points".format(score))
     break
  
- 
+  # else statement being used to tell user that the input answer must be one of the given answers above. 
   else:
     print("You did not choose one of the options")
 print("====================================================================")
@@ -302,10 +303,11 @@ while True:
     score += 0
     break
  
- 
+  # else statement being used to tell user that the input answer must be one of the given answers above. 
   else:
     print("You did not choose one of the options")
 print("====================================================================")
+
 
 print("Your final score: {}/10".format(score))
 print("====================================================================")
