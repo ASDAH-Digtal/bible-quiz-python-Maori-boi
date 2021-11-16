@@ -2,7 +2,7 @@
 score = 0
 
 for i in range(1):
-  # Used as a barrier to seperate each sentence
+  # Print statement used to print out a barrier to seperate each sentence
   print("====================================================================")
   print("Welcome to Micah's bible quiz")
   print("====================================================================")
