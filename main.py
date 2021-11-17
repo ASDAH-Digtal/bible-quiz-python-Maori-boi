@@ -2,7 +2,9 @@
 score = 0
 
 for i in range(1):
-  # Print statement used to print out a barrier to seperate each sentence
+  """ 
+  Print statement used to print out a barrier to seperate each sentence
+  """
   print("====================================================================")
   print("Welcome to Micah's bible quiz")
   print("====================================================================")
@@ -19,7 +21,11 @@ for i in range(1):
 # While true statement
 while True:
 
-  # input for question one
+  """
+   Variable names use the Snake case technique
+   input for question one
+  """
+
   question_one = input("Where in the Bible does the 'Beast' come out of the sea?\n (a) Colossians\n (b) Hebrews\n (c) John\n (d) Revelation\n>>")
   
   # Available answers given both correct and incorrect answers 
