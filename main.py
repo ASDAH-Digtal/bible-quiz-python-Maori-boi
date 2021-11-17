@@ -76,6 +76,7 @@ while True:
     print("You did not choose one of the options")
 print("====================================================================")
 
+# While true statement
 while True:
 
   # input for question three
@@ -105,6 +106,7 @@ while True:
     print("You did not choose one of the options")
 print("====================================================================")
 
+# While true statement
 while True:
 
   # input for question four
@@ -134,6 +136,7 @@ while True:
     print("You did not choose one of the options")
 print("====================================================================")
 
+# While true statement
 while True:
 
   # input for question five
@@ -163,6 +166,7 @@ while True:
     print("You did not choose one of the options")
 print("====================================================================")
 
+# While true statement
 while True:
 
   # input for question six
@@ -192,6 +196,7 @@ while True:
     print("You did not choose one of the options")
 print("====================================================================")
 
+# While true statement
 while True:
 
   # input for question seven
@@ -221,6 +226,7 @@ while True:
     print("You did not choose one of the options")
 print("====================================================================")
 
+# While true statement
 while True:
 
   # input for question eight
@@ -251,6 +257,7 @@ while True:
     print("You did not choose one of the options")
 print("====================================================================")
 
+# While true statement
 while True:
 
   # input for question nine
@@ -281,6 +288,7 @@ while True:
     print("You did not choose one of the options")
 print("====================================================================")
 
+# While true statement
 while True:
 
   # input for question ten
