@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T21:31:36.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="v3xaEea4zKKRbbpkOeHK" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T19:03:45.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="sb2VMxvNZRQfOFQLany0" version="15.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Website flowchart">
-    <mxGraphModel dx="1244" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="08ZhpVUOLH1PlUztrCMv-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="QbMbJwkuA27hQ2ma4qHp-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Welcome to Micah&#39;s awesome Bible Quiz." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Welcome to Micah&#39;s awesome Bible Quiz." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QbMbJwkuA27hQ2ma4qHp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QbMbJwkuA27hQ2ma4qHp-6" target="QbMbJwkuA27hQ2ma4qHp-10" edge="1">
@@ -15,7 +15,7 @@
             <mxPoint x="215" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QbMbJwkuA27hQ2ma4qHp-6" value="Input approval of Quiz" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="QbMbJwkuA27hQ2ma4qHp-6" value="Input approval of Quiz" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="80" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QbMbJwkuA27hQ2ma4qHp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QbMbJwkuA27hQ2ma4qHp-10" target="08ZhpVUOLH1PlUztrCMv-53" edge="1">
@@ -574,7 +574,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="08ZhpVUOLH1PlUztrCMv-2" value="&lt;span&gt;Print (&quot;Great Job You got the Answer right&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="08ZhpVUOLH1PlUztrCMv-2" value="&lt;span&gt;Print (&quot;Great Job You got the Answer right&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="450" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QbMbJwkuA27hQ2ma4qHp-114" value="Input&lt;br&gt;Question 3:&lt;br&gt;&lt;span lang=&quot;EN-NZ&quot; class=&quot;TextRun SCXW2715067 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; text-align: left ; background-color: rgb(255 , 255 , 255) ; line-height: 19.425px&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW2715067 BCX0&quot; style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;How many books are in the Bible?&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW2715067 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 12pt ; text-align: left ; background-color: rgb(255 , 255 , 255) ; line-height: 19.425px ; font-family: &amp;#34;walbaum text&amp;#34; , &amp;#34;walbaum text_embeddedfont&amp;#34; , &amp;#34;walbaum text_msfontservice&amp;#34; , sans-serif&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -669,7 +669,7 @@
         <mxCell id="08ZhpVUOLH1PlUztrCMv-47" value="&lt;span&gt;Print (&quot;Almost got it, nevermind, the next one is yours&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="707" y="1160" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="08ZhpVUOLH1PlUztrCMv-53" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Print (&quot;Great, Let&#39;s Begin&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="08ZhpVUOLH1PlUztrCMv-53" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Print (&quot;Great, Let&#39;s Begin&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="115" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="08ZhpVUOLH1PlUztrCMv-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="08ZhpVUOLH1PlUztrCMv-54" target="QbMbJwkuA27hQ2ma4qHp-25" edge="1">
@@ -680,7 +680,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="08ZhpVUOLH1PlUztrCMv-54" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Print (&quot;That&#39;s unfortunate, Let&#39;s Begin&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="08ZhpVUOLH1PlUztrCMv-54" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Print (&quot;That&#39;s unfortunate, Let&#39;s Begin&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="08ZhpVUOLH1PlUztrCMv-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="08ZhpVUOLH1PlUztrCMv-154" edge="1">
@@ -797,7 +797,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="08ZhpVUOLH1PlUztrCMv-169" value="&lt;span&gt;Print (&quot;Not the answer I&#39;m looking for. Better Luck Next time&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="08ZhpVUOLH1PlUztrCMv-169" value="&lt;span&gt;Print (&quot;Not the answer I&#39;m looking for. Better Luck Next time&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="495" y="540" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="08ZhpVUOLH1PlUztrCMv-316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="08ZhpVUOLH1PlUztrCMv-171" target="QbMbJwkuA27hQ2ma4qHp-74" edge="1">
@@ -808,13 +808,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="08ZhpVUOLH1PlUztrCMv-171" value="&lt;span&gt;Print (&quot;Ooooooh almost got it, tough luck my friend.&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="08ZhpVUOLH1PlUztrCMv-171" value="&lt;span&gt;Print (&quot;Ooooooh almost got it, tough luck my friend.&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="920" y="540" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="08ZhpVUOLH1PlUztrCMv-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="08ZhpVUOLH1PlUztrCMv-173" target="QbMbJwkuA27hQ2ma4qHp-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="08ZhpVUOLH1PlUztrCMv-173" value="&lt;span&gt;Print (&quot;Almost got it, nevermind, the next one is yours&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="08ZhpVUOLH1PlUztrCMv-173" value="&lt;span&gt;Print (&quot;Almost got it, nevermind, the next one is yours&quot;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-27;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="707" y="540" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="08ZhpVUOLH1PlUztrCMv-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.988;exitY=0.494;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QbMbJwkuA27hQ2ma4qHp-147" target="08ZhpVUOLH1PlUztrCMv-183" edge="1">
@@ -1298,7 +1298,7 @@
         <mxCell id="PJT5Kt9nofq3KrueEqgu-13" value="&lt;span&gt;Print(&quot;You scored {} out of 10&quot;.format(Answers right on the first go))&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="6500" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJT5Kt9nofq3KrueEqgu-17" value="Thank you for taking Micah&#39;s Bible quiz." style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="PJT5Kt9nofq3KrueEqgu-17" value="Thank you for taking Micah&#39;s Bible quiz." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="335" y="6620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
