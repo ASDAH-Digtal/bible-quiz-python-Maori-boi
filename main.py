@@ -328,15 +328,23 @@ print("====================================================================")
   # input for final score
 print (score)
 
-# if statement being used to check scores
+"""
+if statement being used to see if score is equal to ten
+first else/if statement being used to see if score is higher than or equal to 7
+or less than or equal to 9
+second else/if statement being used to see if score is higher than or equal to 4
+or less than or equal to 6
+else statment being used if points range from 0 to 3
+"""
 if score == 10:
   print("====================================================================")
   print("Wow, what a score. You must be a Bible freak!")
-elif score >= 7 and score < 10:
+elif score >= 7 and score <= 9:
   print("====================================================================")
   print("That's a pretty good score you've got there!")
 elif score >= 4 and score <= 6:
   print("====================================================================")
+  print("Not too bad for a young one. You could do better.")
 else:
   print("DAMN, YOU NEED JESUS!")
 print("====================================================================")
