@@ -51,6 +51,7 @@ while True:
   # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
+    break
 print("====================================================================")
 
 # While true statement
@@ -80,6 +81,7 @@ while True:
   # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
+    break
 print("====================================================================")
 
 # While true statement
@@ -109,6 +111,7 @@ while True:
   # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
+    break
 print("====================================================================")
 
 # While true statement
@@ -138,6 +141,7 @@ while True:
   # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
+    break
 print("====================================================================")
 
 # While true statement
@@ -167,6 +171,7 @@ while True:
   # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
+    break
 print("====================================================================")
 
 # While true statement
@@ -196,6 +201,7 @@ while True:
   # else statement being used to tell user that the input answer must be one of the given answers above.
   else:
     print("You did not choose one of the options")
+    break
 print("====================================================================")
 
 # While true statement
@@ -225,6 +231,7 @@ while True:
   # else statement being used to tell user that the input answer must be one of the given answers above. 
   else:
     print("You did not choose one of the options")
+    break
 print("====================================================================")
 
 # While true statement
@@ -255,6 +262,7 @@ while True:
   # else statement being used to tell user that the input answer must be one of the given answers above. 
   else:
     print("You did not choose one of the options")
+    break
 print("====================================================================")
 
 # While true statement
@@ -285,6 +293,7 @@ while True:
   # else statement being used to tell user that the input answer must be one of the given answers above. 
   else:
     print("You did not choose one of the options")
+    break
 print("====================================================================")
 
 # While true statement
@@ -312,6 +321,7 @@ while True:
   # else statement being used to tell user that the input answer must be one of the given answers above. 
   else:
     print("You did not choose one of the options")
+    break
 print("====================================================================")
 
 
