@@ -325,6 +325,22 @@ while True:
 print("====================================================================")
 
 
+  # input for final score
+print (score)
+
+# if statement being used to check scores
+if score == 10:
+  print("====================================================================")
+  print("Wow, what a score. You must be a Bible freak!")
+elif score >= 7 and score < 10:
+  print("====================================================================")
+  print("That's a pretty good score you've got there!")
+elif score >= 4 and score <= 6:
+  print("====================================================================")
+else:
+  print("DAMN, YOU NEED JESUS!")
+print("====================================================================")
+
 print("Your final score: {}/10".format(score))
 print("====================================================================")
 print("Thank you for taking part in Micah's Bible Quiz!")
