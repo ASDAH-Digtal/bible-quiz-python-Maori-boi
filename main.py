@@ -45,7 +45,6 @@ while True:
   # else/if statement being used to check if given input is incorrect
   elif question_one.lower() in incorrect_q1:
     print("Not the answer i'm looking for. Nice try.")
-    score += 0
     print("You now have: {} point".format(score))
     break
 
@@ -75,7 +74,6 @@ while True:
   # else/if statement being used to check if given input is incorrect
   elif question_two.lower() in incorrect_q2:
     print("Not the answer i'm looking for. Nice try.")
-    score += 0
     print("You now have: {} points".format(score))
     break
 
@@ -105,7 +103,6 @@ while True:
   # else/if statement being used to check if given input is incorrect
   elif question_three.lower() in incorrect_q3:
     print("Not the answer i'm looking for. Nice try.")
-    score += 0
     print("You now have: {} points".format(score))
     break
 
@@ -135,7 +132,6 @@ while True:
   # else/if statement being used to check if given input is incorrect
   elif question_four.lower() in incorrect_q4:
     print("Not the answer i'm looking for. Nice try.")
-    score += 0
     print("You now have: {} points".format(score))
     break
 
@@ -165,7 +161,6 @@ while True:
   # else/if statement being used to check if given input is incorrect
   elif question_five.lower() in incorrect_q5:
     print("Not the answer i'm looking for. Nice try.")
-    score += 0
     print("You now have: {} points".format(score))
     break
 
@@ -195,7 +190,6 @@ while True:
   # else/if statement being used to check if given input is incorrect
   elif question_six.lower() in incorrect_q6:
     print("Not the answer i'm looking for. Nice try.")
-    score += 0
     print("You now have: {} points".format(score))
     break
 
@@ -225,7 +219,6 @@ while True:
   # else/if statement being used to check if given input is incorrect
   elif question_seven.lower() in incorrect_q7:
     print("Not the answer i'm looking for. Nice try.")
-    score += 0
     print("You now have: {} points".format(score))
     break
  
@@ -256,7 +249,6 @@ while True:
   # else/if statement being used to check if given input is incorrect 
   elif question_eight.lower() in incorrect_q8:
     print("Not the answer i'm looking for. Nice try.")
-    score += 0
     print("You now have: {} points".format(score))
     break
  
@@ -287,7 +279,6 @@ while True:
   # else/if statement being used to check if given input is incorrect
   elif question_nine.lower() in incorrect_q9:
     print("Not the answer i'm looking for. Nice try.")
-    score += 0
     print("You now have: {} points".format(score))
     break
  
@@ -316,7 +307,6 @@ while True:
   # else/if statement being used to check if given input is incorrect 
   elif question_ten.lower() in incorrect_q10:
     print("Not the answer i'm looking for. Nice try.")
-    score += 0
     break
  
   # else statement being used to tell user that the input answer must be one of the given answers above. 
