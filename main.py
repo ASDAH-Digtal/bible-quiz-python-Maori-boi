@@ -334,7 +334,7 @@ first else/if statement being used to see if score is higher than or equal to 7
 or less than or equal to 9
 second else/if statement being used to see if score is higher than or equal to 4
 or less than or equal to 6
-else statment being used if points range from 0 to 3
+else statment being used if points are below 4
 """
 if score == 10:
   print("====================================================================")
